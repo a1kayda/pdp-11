@@ -1,1 +1,1 @@
-# This is pdp-11 implementation as project for informatic classes
+This is pdp-11 implementation as project for informatic classes
